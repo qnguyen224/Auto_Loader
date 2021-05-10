@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from time import sleep
+# The following were omitted for privacy reasons.
 VP_WEB = ""
 VP_ACC = ""
 VP_PW = ""
